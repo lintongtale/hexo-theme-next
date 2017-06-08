@@ -21,8 +21,4 @@
 </span>
 </div>
 
-<div class="powered-by">
-  {{ __('footer.powered', '<a class="theme-link" href="https://hexo.io">Hexo</a>') }}
-</div>
-
 {% endif %}
